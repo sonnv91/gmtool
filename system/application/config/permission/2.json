@@ -1,0 +1,19 @@
+{
+  "name":"Phân quyền 2",
+  "perm":[
+    "drashboard_index",
+    "event_hoard",
+    "event_top",
+    "statistic_nru",
+    "statistic_dau",
+    "statistic_ccu",
+    "statistic_niu",
+    "user_list",
+    "data_items",
+    "data_skills",
+    "data_maps",
+    "data_character",
+    "data_mobs",
+    "data_rewards"
+  ]
+}

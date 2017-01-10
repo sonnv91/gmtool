@@ -1,0 +1,866 @@
+[
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "551cbf674745066915f51138",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "5438d254e4b0e4b6da736a71"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      -318,
+      160
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565366642c716711f3d756a",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "5438d254e4b0e4b6da736a71"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      -259,
+      42
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565366642c716711f3d756b",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "552398f042c71611139772a1"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      -287,
+      -86
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565366642c716711f3d755f",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "552398f042c71611139772a1"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      -168,
+      -135
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565366642c716711f3d7560",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "552398f042c71611139772a1"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      -28,
+      -150
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565366642c716711f3d7561",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "552398f042c71611139772a1"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      55,
+      -33
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565362a42c716711f3d7448",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "552398f042c71611139772a1"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      -100,
+      46
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565362a42c716711f3d743c",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "552398f042c71611139772a1"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      40,
+      116
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565362a42c716711f3d743d",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Ba Lăng Huyện",
+    "code": "map_001",
+    "bossId": "5438d254e4b0e4b6da736a71",
+    "listMobId": [
+      "552398f042c71611139772a1"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 1,
+    "rank": 1,
+    "pos": [
+      188,
+      152
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "552398f042c71611139772a9",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Giang Tân Thôn",
+    "code": "map_002",
+    "bossId": "5544843a42c716074417949d",
+    "listMobId": [
+      "54d504260cf24b720e7855b9"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 2,
+    "rank": 1,
+    "pos": [
+      337,
+      111
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "551fbe3e42c71663e1799280",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Long Môn Trấn",
+    "code": "map_003",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "54d561df0cf24b720e788cca"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 3,
+    "rank": 1,
+    "pos": [
+      258,
+      -13
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "551fbe3e42c71663e1799281",
+    "parent": "555c126942c716338b21c7f1",
+    "docType": "MAP",
+    "name": "Chu Tiên Trấn",
+    "code": "map_004",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce7942c71663e179bd2d"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 4,
+    "rank": 1,
+    "pos": [
+      338,
+      -148
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "551fbe3e42c71663e1799285",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Nam Nhạc Trấn",
+    "code": "map_005",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce8942c71663e179bd41"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 5,
+    "rank": 1,
+    "pos": [
+      -344,
+      174
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "551fbe3e42c71663e1799292",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Tây Sơn Thôn",
+    "code": "map_006",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce8942c71663e179bd45"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 6,
+    "rank": 2,
+    "pos": [
+      -330,
+      42
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "551fbe4842c71663e17992bf",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Đạọ Hương Thôn",
+    "code": "map_007",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 7,
+    "rank": 2,
+    "pos": [
+      -189,
+      37
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "551fbea842c71663e179938e",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      -101,
+      153
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf9",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      29,
+      94
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaed",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      169,
+      165
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaee",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      333,
+      138
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaef",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      326,
+      -41
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf0",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      198,
+      0
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf1",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      90,
+      -111
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf2",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      -49,
+      -62
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf3",
+    "parent": "555c126942c716338b21c7f2",
+    "docType": "MAP",
+    "name": "Vĩnh Lạc Trấn",
+    "code": "map_008",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 8,
+    "rank": 2,
+    "pos": [
+      -192,
+      -115
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf4",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thành Đô",
+    "code": "map_009",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 9,
+    "rank": 2,
+    "pos": [
+      -342,
+      -113
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf5",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      -250,
+      12
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf6",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      -335,
+      138
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf7",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      -178,
+      168
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "556543c242c716711f3dcaf8",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      -35,
+      138
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565438642c716711f3dc904",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      94,
+      69
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565438642c716711f3dc905",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      -50,
+      -10
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565438642c716711f3dc906",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      29,
+      -116
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565438642c716711f3dc907",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      157,
+      -63
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565438642c716711f3dc908",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      302,
+      -58
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565438642c716711f3dc909",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      261,
+      64
+    ],
+    "isMapPK": false,
+    "status": "NEW"
+  },
+  {
+    "@class": "bussiness.entity.MapEntity",
+    "id": "5565438642c716711f3dc90a",
+    "parent": "555c126942c716338b21c7f3",
+    "docType": "MAP",
+    "name": "Thanh Thành Sơn",
+    "code": "map_010",
+    "bossId": "5544843a42c71607441794a0",
+    "listMobId": [
+      "551fce9142c71663e179bd52"
+    ],
+    "rateMob": [
+      100
+    ],
+    "rewardId": "553a583299116001eb425702",
+    "level": 10,
+    "rank": 2,
+    "pos": [
+      310,
+      183
+    ],
+    "isMapPK": true,
+    "status": "NEW"
+  }
+]

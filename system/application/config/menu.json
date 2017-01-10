@@ -1,0 +1,278 @@
+[
+  {
+    "group_name": "Trang chính",
+    "controller_name": "DrashBoard",
+    "controller_routes":"drashboard",
+    "single_func":"index",
+    "icon":"fa-dashboard",
+    "sub_menu": []
+  },
+  {
+    "group_name": "Thống kê",
+    "controller_name": "Statistic",
+    "controller_routes":"statistic",
+    "icon":"fa-pie-chart",
+    "sub_menu": [
+      {
+        "name": "NRU",
+        "func_routes":"nru",
+        "status": 1
+      },
+      {
+        "name": "DAU",
+        "func_routes":"dau",
+        "status": 1
+      },
+      {
+        "name": "CCU",
+        "func_routes":"ccu",
+        "status": 1
+      },
+      {
+        "name": "NIU",
+        "func_routes":"niu",
+        "status": 1
+      },
+      {
+        "name": "RR",
+        "func_routes":"rr",
+        "status": 1
+      },
+      {
+        "name": "REV",
+        "func_routes":"rev",
+        "status": 1
+      },
+      {
+        "name": "PU",
+        "func_routes":"pu",
+        "status": 1
+      },
+      {
+        "name": "ARPU",
+        "func_routes":"arpu",
+        "status": 1
+      },
+      {
+        "name": "ARPPU",
+        "func_routes":"arppu",
+        "status": 1
+      },
+      {
+        "name": "Doanh thu hàng ngày",
+        "func_routes":"log_transaction",
+        "status": 1
+      },
+      {
+        "name": "Doanh thu Apple hàng ngày",
+        "func_routes":"log_usd",
+        "status": 1
+      }
+    ]
+  },
+  {
+    "group_name": "Thông tin người dùng",
+    "controller_name": "User",
+    "controller_routes":"user",
+    "single_func":"list",
+    "icon":"fa-user",
+    "sub_menu": []
+  },
+  {
+    "group_name":"Game Data",
+    "controller_name":"StaticData",
+    "controller_routes":"data",
+    "icon":"fa-cogs",
+    "sub_menu": [
+      {
+        "name":"Item",
+        "func_routes":"items",
+        "status":1
+      },
+      {
+        "name":"Item Static",
+        "func_routes":"items/static",
+        "status":1
+      },
+      {
+        "name":"Skill",
+        "func_routes":"skills",
+        "status":1
+      },
+      {
+        "name":"Map",
+        "func_routes":"maps",
+        "status":1
+      },
+      {
+        "name":"Character",
+        "func_routes":"characters",
+        "status":1
+      },
+      {
+        "name":"Mob",
+        "func_routes":"mobs",
+        "status":1
+      },
+      {
+        "name":"Reward",
+        "func_routes":"rewards",
+        "status":1
+      },
+      {
+        "name":"Equipment Option",
+        "func_routes":"options",
+        "status":1
+      },
+      {
+        "name":"Option Rate",
+        "func_routes":"rate_option",
+        "status":1
+      },
+      {
+        "name":"Set Option",
+        "func_routes":"options/set",
+        "status":1
+      },
+      {
+        "name":"Vip",
+        "func_routes":"vips",
+        "status":1
+      },
+      {
+        "name":"Achievement",
+        "func_routes":"achievements",
+        "status":1
+      },
+      {
+        "name":"Tổ đội",
+        "func_routes":"party",
+        "status":1
+      },
+      {
+        "name":"Viêm Đế",
+        "func_routes":"party_advanced",
+        "status":1
+      },
+      {
+        "name":"Shop",
+        "func_routes":"shop",
+        "status":1
+      },
+      {
+        "name":"Điểm danh hàng ngày",
+        "func_routes":"checkin",
+        "status":1
+      },
+      {
+        "name":"Trợ giúp",
+        "func_routes":"helps",
+        "status":1
+      },
+      {
+        "name":"Data version",
+        "func_routes":"version",
+        "status":1
+      },
+      {
+        "name":"Apple Review",
+        "func_routes":"apple_review",
+        "status":1
+      }
+    ]
+  },
+  {
+    "group_name":"Event",
+    "controller_name":"Event",
+    "controller_routes":"event",
+    "icon":"fa-th",
+    "sub_menu": [
+      {
+        "name":"Config",
+        "func_routes":"config",
+        "status":1
+      },
+      {
+        "name":"Nạp xu nhận quà",
+        "func_routes":"hoard",
+        "status":1
+      },
+      {
+        "name":"Nạp xu tích lũy",
+        "func_routes":"hoard_daily",
+        "status":1
+      },
+      {
+        "name":"Đổi vật phẩm",
+        "func_routes":"exchange",
+        "status":1
+      },
+      {
+        "name":"Tích lũy nhận thưởng",
+        "func_routes":"midautumn",
+        "status":1
+      },
+      {
+        "name":"Mua chung",
+        "func_routes":"groupon",
+        "status":1
+      },
+      {
+        "name":"Boss Bang hội",
+        "func_routes":"clan_boss",
+        "status":1
+      }
+    ]
+  },
+  {
+    "group_name":"Công cụ",
+    "controller_name":"Tools",
+    "controller_routes":"tools",
+    "icon":"fa-th",
+    "sub_menu": [
+      {
+        "name":"Gửi thư ingame",
+        "func_routes":"send_message",
+        "status":1
+      },
+      {
+        "name":"Hoạt động",
+        "func_routes":"activities",
+        "status":1
+      },
+      {
+        "name":"Danh sách server",
+        "func_routes":"server",
+        "status":1
+      },
+      {
+        "name":"Lỗi thẻ",
+        "func_routes":"error_card/view",
+        "status":1
+      }
+    ]
+  },
+  {
+    "group_name":"Logs",
+    "controller_name":"logs",
+    "controller_routes":"logs",
+    "icon":"fa-th",
+    "sub_menu": [
+      {
+        "name":"Log nạp KNB",
+        "func_routes":"trans",
+        "status":1
+      },
+      {
+        "name":"Log sử dụng KNB",
+        "func_routes":"coin",
+        "status":1
+      },
+      {
+        "name":"Log túi đồ",
+        "func_routes":"inventory",
+        "status":1
+      }
+    ]
+  }
+]
